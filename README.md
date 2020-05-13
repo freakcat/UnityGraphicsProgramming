@@ -28,12 +28,12 @@ UnityGraphicsProgramming
 
 [IndieVisualLab] repository of Unity technology doujinshi "Unity Graphics Programming"
 
--Chapter 1 Getting Started with Unity Procedural Modeling @mattatz-Sample Code
--Chapter 2 Getting Started with ComputeShader @XJINE-Sample Code
--Chapter 3 GPU Implementation of Swarm Simulation @hiroakioishi-Sample Code
--Chapter 4 Fluid Simulation by Lattice Method @sakope-Sample Code
--Chapter 5 Fluid simulation by SPH method @ kodai100-Sample code
--Chapter 6.Growing grass with geometry shaders @ a3geek-sample code
--Chapter 7 Getting Started with Atmosphere Marching Cubes Introduction @ kaiware007-Sample Code
--Chapter 8 3D spatial sampling with MCMC @komietty-sample code
--Chapter 9 MultiPlanePerspectiveProjection @fuqunaga-Sample Code
+- Chapter 1 Getting Started with Unity Procedural Modeling @mattatz-Sample Code
+- Chapter 2 Getting Started with ComputeShader @XJINE-Sample Code
+- Chapter 3 GPU Implementation of Swarm Simulation @hiroakioishi-Sample Code
+- Chapter 4 Fluid Simulation by Lattice Method @sakope-Sample Code
+- Chapter 5 Fluid simulation by SPH method @ kodai100-Sample code
+- Chapter 6.Growing grass with geometry shaders @ a3geek-sample code
+- Chapter 7 Getting Started with Atmosphere Marching Cubes Introduction @ kaiware007-Sample Code
+- Chapter 8 3D spatial sampling with MCMC @komietty-sample code
+- Chapter 9 MultiPlanePerspectiveProjection @fuqunaga-Sample Code
